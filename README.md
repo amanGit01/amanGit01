@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanGit01
-- 👀 I’m interested in ...Coding, Open-Source.
-- 🌱 I’m currently learning ...C++
+- 👀 I’m interested in ...Coding, Android Dev, Open-Source
+- 🌱 I’m currently learning ...C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...IG - aman._ig , email - amanjots329@gmail.com
 
